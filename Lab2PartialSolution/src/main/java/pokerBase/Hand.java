@@ -67,7 +67,6 @@ public class Hand {
 			ArrayList<Card> kickers = new ArrayList<Card>();
 			hs.setKickers(kickers);
 			}
-		
 		return isRoyalFlush;
 	}
 
