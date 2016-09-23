@@ -47,6 +47,5 @@ public class Card  implements Comparable {
 	    return c.geteRank().compareTo(this.geteRank()); 
 
 	}
-
 	
 }
